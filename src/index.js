@@ -33,12 +33,12 @@ function source(...args) {
  * List of networks and their default port mapping.
  */
 
-const networks = {
-  mainnet: 8332,
-  regtest: 18332,
-  testnet: 18332
-};
-
+ const networks = {
+   mainnet: 8232,
+   regtest: 18232,
+   testnet: 18232
+ };
+ 
 /**
  * Constructor.
  */
